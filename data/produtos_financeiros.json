@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "id": "tesouro_selic",
+      "nome": "Tesouro Selic",
+      "risco": "baixo",
+      "rentabilidade": "100% Selic",
+      "liquidez": "D+1",
+      "minimo": 30
+    },
+    {
+      "id": "cdb_110",
+      "nome": "CDB 110% CDI",
+      "risco": "baixo",
+      "rentabilidade": "110% CDI",
+      "liquidez": "Diária",
+      "minimo": 100
+    },
+    {
+      "id": "etf_ivvb11",
+      "nome": "ETF IVVB11 (S&P500)",
+      "risco": "alto",
+      "rentabilidade": "variável",
+      "liquidez": "D+2",
+      "minimo": 300
+    }
+  ],
+  "faq": [
+    {
+      "pergunta": "O que é CDI?",
+      "resposta": "CDI é a taxa entre bancos, próxima da Selic, benchmark da renda fixa."
+    }
+  ]
+}

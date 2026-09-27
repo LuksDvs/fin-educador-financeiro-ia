@@ -1,0 +1,10 @@
+{
+  "nome": "Lucas",
+  "cidade": "Belo Horizonte, MG",
+  "renda_mensal": 8500,
+  "perfil_risco": "moderado",
+  "score_risco": 65,
+  "objetivos": [
+    {"nome": "Reserva de emergência", "meta": 10000, "atual": 3200}
+  ]
+}
